@@ -1,5 +1,5 @@
  {
-   "appName": "BSE eTalent",
-   "baseUrl": "http://etalent.ddns.net:8091/",
+   "appName": "BSE eTalent - TESTING",
+   "baseUrl": "http://localhost/BSE/",
    "forceUpdate": false
  }
