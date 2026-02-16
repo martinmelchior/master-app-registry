@@ -1,0 +1,6 @@
+# Configuraciones críticas - solo @martinmelchior puede aprobar
+/configs/*.json @martinmelchior
+
+# Si tienes otras carpetas sensibles
+# /scripts/* @martinmelchior
+# /*.json @martinmelchior
