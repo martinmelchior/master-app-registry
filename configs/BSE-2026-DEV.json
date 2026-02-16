@@ -1,6 +1,5 @@
  {
    "appName": "BSE eTalent - TESTING",
-   # "baseUrl": "http://192.168.0.250/BSE/",
    "baseUrl": "http://etalent-bse.com:8090/",
    "forceUpdate": false
  }
