@@ -1,9 +1,0 @@
-  {
-    "appName": "BSE eTalent",
-    "production": true,
-    "baseUrlProduction": "http://etalent-bse.com:8090/",
-    "baseUrlTesting": "http://etalent.ddns.net:8091/",
-    "forceUpdate": false,
-    "maintenance": false,
-    "message": ''
-  }

@@ -1,0 +1,5 @@
+ {
+   "appName": "BSE eTalent",
+   "baseUrl": "http://etalent-bse.com:8090/",
+   "forceUpdate": false
+ }
