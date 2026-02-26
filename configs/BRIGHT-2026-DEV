@@ -1,1 +1,6 @@
 
+ {
+   "appName": "BRIGHT eTalent - TESTING",
+   "baseUrl": "http://192.168.0.250/BRIGHT/",
+   "forceUpdate": true
+ }
