@@ -1,5 +1,5 @@
  {
    "appName": "BSE eTalent - PRODUCCION",
-   "baseUrl": "http://etalent-bse.com:8090/",
+   "baseUrl": "http://etalent.ddns.net:8091/",
    "forceUpdate": true
  }
