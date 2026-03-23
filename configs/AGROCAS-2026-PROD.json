@@ -2,5 +2,6 @@
   "baseUrl": "http://190.216.61.22/MobileApiRest/",
   "appLicenseName": "AGROCAS",
   "usaLicenciamiento": true,
-  "urlApiLicenseControl": "https://vendomas.store/api/v1/"
+  "urlApiLicenseControl": "https://vendomas.store/api/v1/",
+  "idBaseDeDatos": 10000
 }
