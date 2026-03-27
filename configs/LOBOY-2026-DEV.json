@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://192.168.0.250/MobileApiRest/",
+  "appLicenseName": "AGRO LOBOY",
+  "usaLicenciamiento": true,
+  "urlApiLicenseControl": "http://vendomas.store/api/v1/",
+  "idBaseDeDatos": 10060
+}
