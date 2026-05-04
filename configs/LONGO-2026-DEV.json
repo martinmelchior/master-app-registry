@@ -1,1 +1,8 @@
 
+{
+  "baseUrl": "http://192.168.0.250/MobileApiRest/",
+  "appLicenseName": "LONGO",
+  "usaLicenciamiento": true,
+  "urlApiLicenseControl": "http://vendomas.store/api/v1/",
+  "idBaseDeDatos": 10400
+}
