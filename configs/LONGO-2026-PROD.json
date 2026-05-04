@@ -1,6 +1,6 @@
 
 {
-  "baseUrl": "http://186.0.133.5:8091/",
+  "baseUrl": "http://186.5.220.10/",
   "appLicenseName": "FAMILIA LONGO",
   "usaLicenciamiento": true,
   "urlApiLicenseControl": "http://vendomas.store/api/v1/",
