@@ -1,1 +1,5 @@
-
+ {
+   "appName": "BRIGHT eTalent - SANDBOX",
+   "baseUrl": "http://23.126.143.186:8090/",
+   "forceUpdate": true
+ }
