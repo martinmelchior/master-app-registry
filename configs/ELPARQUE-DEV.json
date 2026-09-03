@@ -1,5 +1,5 @@
 {
    "appName": "EL PARQUE - TESTING",
    "baseUrl": "http://192.168.0.250/Generico/",
-   "forceUpdate": true
+   "forceUpdate": false
  }
