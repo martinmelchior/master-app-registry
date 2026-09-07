@@ -1,0 +1,9 @@
+{
+  "appName": "FORRAJERAS - TESTING",
+  "baseUrl": "http://192.168.0.250/MobileApiRest/",
+  "forceUpdate": false,
+  "appLicenseName": "FORRAJERAS",
+  "usaLicenciamiento": false,
+  "urlApiLicenseControl": "https://vendomas.store/api/v1/",
+  "idBaseDeDatos": 10500
+}

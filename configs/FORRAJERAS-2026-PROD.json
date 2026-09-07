@@ -1,0 +1,9 @@
+{
+  "appName": "FORRAJERAS - PRODUCCION",
+  "baseUrl": "http://138.121.126.7:8089/",
+  "forceUpdate": false,
+  "appLicenseName": "FORRAJERAS",
+  "usaLicenciamiento": true,
+  "urlApiLicenseControl": "https://vendomas.store/api/v1/",
+  "idBaseDeDatos": 10500
+}
