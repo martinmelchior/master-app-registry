@@ -5,5 +5,8 @@
   "appLicenseName": "FORRAJERAS",
   "usaLicenciamiento": true,
   "urlApiLicenseControl": "https://vendomas.store/api/v1/",
-  "idBaseDeDatos": 10500
+  "idBaseDeDatos": 10500,
+  "connectTimeoutMs": 15000,
+  "receiveTimeoutMs": 45000,
+  "sendTimeoutMs": 45000
 }
