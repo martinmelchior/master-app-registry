@@ -13,8 +13,10 @@
     "id": "2026-10-listas-de-precios",
     "titulo": "Novedades",
     "items": [
-      "Nueva consulta de Listas de precios: buscá un artículo y vé su precio en todas las listas.",
-      "Entrás desde el Home o desde la pantalla de Pedidos de cada empresa.",
+      "Nueva consulta de Listas de precios: buscá un artículo y observá su precio en todas las listas.",
+      "Entrás desde el Home o desde la pantalla de Pedidos.",
+      "Ahora puedes ANULAR un pedido desde el header de la pantalla de detalle del pedido.",
+      "Ahora la fecha de vencimiento del pedido esta liberada.",
       "Las pantallas de pedidos y cuentas corrientes tienen un nuevo diseño de tarjetas."
     ]
   }
