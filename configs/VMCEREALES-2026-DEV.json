@@ -8,5 +8,14 @@
   "idBaseDeDatos": 10100,
   "connectTimeoutMs": 15000,
   "receiveTimeoutMs": 60000,
-  "sendTimeoutMs": 60000
+  "sendTimeoutMs": 60000,
+  "novedades": {
+    "id": "2026-10-listas-de-precios",
+    "titulo": "Novedades",
+    "items": [
+      "Nueva consulta de Listas de precios: buscá un artículo y vé su precio en todas las listas.",
+      "Entrás desde el Home o desde la pantalla de Pedidos de cada empresa.",
+      "Las pantallas de pedidos y cuentas corrientes tienen un nuevo diseño de tarjetas."
+    ]
+  }
 }
