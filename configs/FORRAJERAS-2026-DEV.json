@@ -8,5 +8,15 @@
   "idBaseDeDatos": 10500,
   "connectTimeoutMs": 15000,
   "receiveTimeoutMs": 45000,
-  "sendTimeoutMs": 45000
+  "sendTimeoutMs": 45000,
+  "novedades": {
+    "id": "2026-10-listas-de-precios",
+    "titulo": "Novedades",
+    "items": [
+      "Nueva consulta de Listas de precios: buscá un artículo y observá su precio en todas las listas.",
+      "Ahora puedes ANULAR un pedido desde el header de la pantalla de detalle del pedido.",
+      "Ahora la fecha de vencimiento del pedido esta liberada.",
+      "Rediseñamos y mejoramos la opción de compartir Cuentas Corrientes."
+    ]
+  }
 }
