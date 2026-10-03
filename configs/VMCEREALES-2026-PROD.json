@@ -15,10 +15,11 @@
     "minVersionIos": "1.0.3",
     "titulo": "Novedades",
     "items": [
-      "Nueva consulta de Listas de precios: buscá un artículo y observá su precio en todas las listas.",
-      "Entrás desde el Home o desde la pantalla de Pedidos.",
-      "Ahora puedes ANULAR un pedido desde el header de la pantalla de detalle del pedido.",
-      "Ahora la fecha de vencimiento del pedido esta liberada.",
+      "Nuevo diseño y más comodidad de filtros a la hora de COMPARTIR CUENTAS CORRIENTES.",
+      "Nueva consulta de LISTAS DE PRECIOS: buscá un artículo y observá su precio en todas las listas.",
+      "Entrás desde el HOME o desde la pantalla de PEDIDOS.",
+      "Ahora puedes ANULAR un pedido desde la pantalla de DETALLE DE UN PEDIDO.",
+      "Ahora la FECHA DE VENCIMIENTO del pedido esta liberada.",
       "Las pantallas de pedidos y cuentas corrientes tienen un nuevo diseño de tarjetas."
     ]
   }
