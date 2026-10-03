@@ -11,8 +11,8 @@
   "sendTimeoutMs": 60000,
   "novedades": {
     "id": "2026-10-listas-de-precios",
-    "minVersionAndroid": "1.0.7",
-    "minVersionIos": "1.0.3",
+    "minVersionAndroid": "1.0.8",
+    "minVersionIos": "1.0.8",
     "titulo": "Novedades",
     "items": [
       "Nuevo diseño y más comodidad de filtros a la hora de COMPARTIR CUENTAS CORRIENTES.",
