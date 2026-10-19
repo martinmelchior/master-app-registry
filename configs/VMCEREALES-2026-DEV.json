@@ -14,7 +14,7 @@
     "titulo": "Novedades",
     "items": [
       "Al cargar un artículo en un PEDIDO ahora ves el STOCK ACTUAL y el STOCK DISPONIBLE: en la lista de artículos y, al elegir uno, en un panel debajo.",
-      "El stock es informativo y no bloquea la carga. Un valor en rojo indica stock negativo.",
+      "El stock es informativo y no bloquea la carga.",
       "Se muestra solo si tu empresa tiene habilitada esa opción en el sistema."
     ]
   }
