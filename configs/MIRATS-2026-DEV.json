@@ -1,0 +1,12 @@
+{
+  "appName": "MIRATS - TESTING",
+  "baseUrl": "http://192.168.0.250/MobileApiRest/",
+  "forceUpdate": false,
+  "connectTimeoutMs": 15000,
+  "receiveTimeoutMs": 45000,
+  "sendTimeoutMs": 45000,
+  "telemetria": {
+    "activa": true,
+    "url": "https://telemetria.vendomas.store/api/v1/"
+  }
+}
