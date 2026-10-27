@@ -10,7 +10,7 @@
   "receiveTimeoutMs": 45000,
   "sendTimeoutMs": 45000,
   "telemetria": {
-    "activa": false,
+    "activa": true,
     "url": "https://telemetria.vendomas.store/api/v1/"
   },
   "novedades": {
