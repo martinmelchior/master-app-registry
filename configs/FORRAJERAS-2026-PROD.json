@@ -14,15 +14,17 @@
     "url": "https://telemetria.vendomas.store/api/v1/"
   },
   "novedades": {
-    "id": "2026-10-listas-de-precios",
-    "minVersionAndroid": "1.0.2",
-    "minVersionIos": "1.0.2",
+    "id": "2026-10-contacto-clima-foto",
+    "minVersionAndroid": "1.0.5",
+    "minVersionIos": "1.0.5",
     "titulo": "Novedades",
     "items": [
-      "Nueva consulta de Listas de precios: buscá un artículo y observá su precio en todas las listas.",
-      "Ahora puedes ANULAR un pedido desde el header de la pantalla de detalle del pedido.",
-      "Ahora la fecha de vencimiento del pedido esta liberada.",
-      "Rediseñamos y mejoramos la opción de compartir Cuentas Corrientes."
+      "Contacto: los teléfonos de la empresa en el inicio y en el menú, para llamar o escribir por WhatsApp.",
+      "El clima de tu zona en el saludo del inicio, con el pronóstico extendido.",
+      "Tu foto en el perfil, desde la cámara o la galería.",
+      "Cuenta corriente: filtros TODOS, A VENCER y VENCIDOS en los movimientos.",
+      "Pedidos: stock actual y disponible del artículo al cargar un renglón.",
+      "Portal web: la misma app en el navegador, con los PDF a la vista."
     ]
   }
 }
