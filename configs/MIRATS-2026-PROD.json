@@ -1,0 +1,12 @@
+{
+  "appName": "MIRATS - PRODUCCION",
+  "baseUrl": "https://miratscereales.com.ar/",
+  "forceUpdate": false,
+  "connectTimeoutMs": 15000,
+  "receiveTimeoutMs": 45000,
+  "sendTimeoutMs": 45000,
+  "telemetria": {
+    "activa": true,
+    "url": "https://telemetria.vendomas.store/api/v1/"
+  }
+}
