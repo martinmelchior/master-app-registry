@@ -9,6 +9,10 @@
   "connectTimeoutMs": 15000,
   "receiveTimeoutMs": 60000,
   "sendTimeoutMs": 60000,
+  "telemetria": {
+    "activa": true,
+    "url": "https://telemetria.vendomas.store/api/v1/"
+  },
   "novedades": {
     "id": "2026-10-stock-en-pedidos",
     "minVersionAndroid": "1.0.9",
