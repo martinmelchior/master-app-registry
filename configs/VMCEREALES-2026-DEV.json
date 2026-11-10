@@ -14,12 +14,15 @@
     "url": "https://telemetria.vendomas.store/api/v1/"
   },
   "novedades": {
-    "id": "2026-10-stock-en-pedidos",
+    "id": "2026-11-version-1-1-0",
     "titulo": "Novedades",
     "items": [
-      "Al cargar un artículo en un PEDIDO ahora ves el STOCK ACTUAL y el STOCK DISPONIBLE: en la lista de artículos y, al elegir uno, en un panel debajo.",
-      "El stock es informativo y no bloquea la carga.",
-      "Se muestra solo si tu empresa tiene habilitada esa opción en el sistema."
+      "Diseño nuevo: inicio renovado, con íconos de color, y botones y avisos más claros.",
+      "Cuenta corriente: filtros TODOS, A VENCER y VENCIDOS en los movimientos.",
+      "Tu foto en el perfil, desde la cámara o la galería.",
+      "Artículos y comprobantes pendientes: PDF nuevo, con el detalle por comprobante.",
+      "El clima de tu zona en el saludo del inicio, con el pronóstico extendido.",
+      "Pedidos: la categoría del cliente en el combo CLIENTE."
     ]
   }
 }
